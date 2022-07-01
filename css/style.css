@@ -1,0 +1,28 @@
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.692);
+    color: white;
+    font-family: "Oswald";
+}
+
+#cabecalho{
+    border: 1px solid red;
+    width: auto;
+    display: inline-block;
+}
+
+#cabecalho ul{
+    list-style: none;
+}
+
+#cabecalho li a{
+    text-decoration: none;
+    color: white;
+}

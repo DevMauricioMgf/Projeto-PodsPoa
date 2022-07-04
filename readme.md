@@ -1,1 +1,1 @@
-Neste projeto estarei criando o e comerce que irei vender os pods descartáveis 
+Neste projeto desenvolvo o eccomerce PodsPoa com Bootstrap, JavaScript e PHP
